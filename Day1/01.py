@@ -19,5 +19,5 @@ def part2():
     product = function()
     print("Part2: ", str(sum(sorted(product, reverse=True)[:3])))
 
-part1()
+#part1()
 part2()
