@@ -1,2 +1,4 @@
-# AdventOfCode 2022
+# AoC-2022
 Second approach...
+
+⫸ [`AdventOfCode`]("https://adventofcode.com/")
