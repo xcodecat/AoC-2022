@@ -1,4 +1,4 @@
 # AoC-2022
 Second approach...
 
-⫸ [AdventOfCode]("https://adventofcode.com/")
+⫸ [`AdventOfCode`](https://adventofcode.com/)
