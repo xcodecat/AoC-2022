@@ -1,4 +1,5 @@
-file = open("Day1/01.txt")
+with open("Day1/01.txt") as f:
+    file = f.readlines()
 
 def function():
     product = [0]
@@ -19,5 +20,5 @@ def part2():
     product = function()
     print("Part2: ", str(sum(sorted(product, reverse=True)[:3])))
 
-#part1()
+part1()
 part2()
